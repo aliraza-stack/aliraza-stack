@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
 <h3 align="center">A passionate Associate Software Engineer</h3>
 
-<img src="https://komarev.com/ghpvc/?username=aliraxa-hub&label=Profile%20views&color=10f914&style=plastic" alt="aliraxa-hub" /> <a href="https://twitter.com/nextonhub" target="blank"><img src="https://img.shields.io/twitter/follow/nextonhub?logo=twitter&style=plastic" alt="nextonhub" /></a> <img src="https://img.shields.io/github/languages/count/aliraxa-hub/sting?logo=github&style=plastic" alt="nextonhub" /></a> <img src="https://img.shields.io/badge/Ruby%20on%20Rails-1%20Year-green?&style=plastic&logo=ruby&logoColor=red" /> <img src="https://img.shields.io/badge/Build-passing-green?style=plastic&logo=github"/> <img src="https://img.shields.io/badge/Portfolio-nextonhub.me-brightgreen?style=plastic&logo=About.me&logoColor=FF9E0F"/>
+<img src="https://komarev.com/ghpvc/?username=aliraxa-hub&label=Profile%20views&color=10f914&style=plastic" alt="aliraxa-hub" /> <a href="https://twitter.com/nextonhub" target="blank"><img src="https://img.shields.io/twitter/follow/nextonhub?logo=twitter&style=plastic" alt="nextonhub" /></a> <img src="https://img.shields.io/github/languages/count/aliraxa-hub/sting?logo=github&style=plastic" alt="nextonhub" /></a> <img src="https://img.shields.io/badge/Ruby%20on%20Rails-3%20Year-green?&style=plastic&logo=ruby&logoColor=red" /> <img src="https://img.shields.io/badge/Build-passing-green?style=plastic&logo=github"/> <img src="https://img.shields.io/badge/Portfolio-nextonhub.me-brightgreen?style=plastic&logo=About.me&logoColor=FF9E0F"/>
 
 - 🔭 I’m currently working on **Ruby on Rails**
 
