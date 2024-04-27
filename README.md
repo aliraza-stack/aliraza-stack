@@ -4,7 +4,7 @@
 
 # Portfolio
 [ALI RAZA OFFICIAL](https://alirazaofficial.com) <br>
-`You can visit hare to see my portfolio site`
+`You can visit here to see my portfolio site`
 ---
 
 # 📊 GitHub Stats
