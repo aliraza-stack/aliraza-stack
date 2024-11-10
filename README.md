@@ -1,5 +1,16 @@
+<p align="center">
+  <img src="https://alirazaofficial.com/wp-content/uploads/2024/11/cropped-logo-1.webp" alt="Logo" width="200"/>
+</p>
 
-# 💻 Development Stacks
+# <p align="center"><strong><span style="font-size: 24px;">Hi, I'm Ali Raza 👋</span></strong></p>
+
+With 4 years of experience in software development, my main focus is on Ruby on Rails. I’m also skilled in other frameworks like Laravel and WordPress, and have hands-on experience with several programming languages, including Ruby, PHP, Python, Java, and JavaScript.
+
+<a href="https://www.upwork.com/freelancers/alirazayasin" target="_blank"><img src="https://alirazaofficial.com/wp-content/uploads/2024/11/upwork.svg" data-svg="https://simpleicons.org/icons/fiverr.svg" alt="Upwork" width="50" /></a>
+<a href="https://alirazaofficial.com" target="_blank"><img src="https://alirazaofficial.com/wp-content/uploads/2024/11/cropped-logo.webp" alt="Portfolio" width="40" /></a>
+---
+
+# 💻 Full Stack Developer
 
 ## Languages
 
@@ -68,14 +79,11 @@
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 
 
-# Portfolio
-[ALI RAZA OFFICIAL](https://alirazaofficial.com) <br>
-`You can visit here to see my portfolio site`
----
-
 # 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=aliraza-stack&theme=react&hide_border=false&include_all_commits=true&count_private=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliraza-stack&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliraza-stack&theme=react&hide_border=false)<br/>
 
 
