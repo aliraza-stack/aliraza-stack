@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://alirazaofficial.com/wp-content/uploads/2024/11/cropped-logo-1.webp" alt="Logo" width="200"/>
+  <img src="https://osmicsoft.com/_next/image?url=%2Fimages%2Ffavicon.png&w=256&q=75" alt="Logo" width="200"/>
 </p>
 
 # <p align="center"><strong><span style="font-size: 24px;">Hi, I'm Ali Raza 👋</span></strong></p>
