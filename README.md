@@ -7,7 +7,6 @@
 With 4 years of experience in software development, my main focus is on Ruby on Rails. I’m also skilled in other frameworks like Laravel and WordPress, and have hands-on experience with several programming languages, including Ruby, PHP, Python, Java, and JavaScript.
 
 <a href="https://www.upwork.com/freelancers/alirazayasin" target="_blank"><img src="https://alirazaofficial.com/wp-content/uploads/2024/11/upwork.svg" data-svg="https://simpleicons.org/icons/fiverr.svg" alt="Upwork" width="50" /></a>
-<a href="https://alirazaofficial.com" target="_blank"><img src="https://alirazaofficial.com/wp-content/uploads/2024/11/cropped-logo.webp" alt="Portfolio" width="40" /></a>
 ---
 
 # 💻 Full Stack Developer
